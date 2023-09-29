@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.3186b841.js",
+    "main.js": "/static/js/main.687b1058.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Sushree_Resume.pdf": "/static/media/Sushree_Resume.f0b3f8db39da35fd6132.pdf",
     "static/media/Sushree_Subhashree_img.jpeg": "/static/media/Sushree_Subhashree_img.adeccd2752deef012bac.jpeg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.3186b841.js.map": "/static/js/main.3186b841.js.map",
+    "main.687b1058.js.map": "/static/js/main.687b1058.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3186b841.js"
+    "static/js/main.687b1058.js"
   ]
 }

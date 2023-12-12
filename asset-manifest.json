@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.15c05ff3.js",
+    "main.js": "/static/js/main.eb1bf5e6.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/img4.png": "/static/media/img4.f389f8939a94e3944fda.png",
     "static/media/img3.png": "/static/media/img3.d880c1a290f53e10e68c.png",
     "static/media/img1.png": "/static/media/img1.20c5001abbf6d7b8bba9.png",
-    "static/media/Sushree-Sahoo-Resume.pdf": "/static/media/Sushree-Sahoo-Resume.1e9ea83a2e75b5135c1f.pdf",
+    "static/media/Sushree-Sahoo-Resume.pdf": "/static/media/Sushree-Sahoo-Resume.48cedb57532dfa6cda7e.pdf",
     "static/media/img2.png": "/static/media/img2.98e426ab8e1101ab557c.png",
     "static/media/Sushree_Subhashree_img.jpeg": "/static/media/Sushree_Subhashree_img.adeccd2752deef012bac.jpeg",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.15c05ff3.js.map": "/static/js/main.15c05ff3.js.map",
+    "main.eb1bf5e6.js.map": "/static/js/main.eb1bf5e6.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.15c05ff3.js"
+    "static/js/main.eb1bf5e6.js"
   ]
 }
